@@ -124,23 +124,5 @@ while True:
 
 ##  Contributors  
 - **Christian Costanza**  
-- [Your Name Here]  
 
----
 
-##  License  
-This project is licensed under the **MIT License**.  
-
----
-
-##  FAQ  
-
-### Can I use this for datasets other than course descriptions?  
-Yes! Modify the dataset loading function to ingest any structured text data.  
-
-###  How do I increase chatbot accuracy?  
-- Use a **larger embedding model** (e.g., `sentence-transformers/all-mpnet-base-v2`).  
-- Fine-tune the **retrieval ranking algorithm**.  
-
-###  Can I run this on **Google Colab**?  
-Yes! Click the **"Open in Colab"** badge at the top of this README.  
